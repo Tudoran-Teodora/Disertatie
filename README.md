@@ -63,7 +63,7 @@ Prin data warehousing, datele sunt stocate in data marts, reprezentand subseturi
 Pentru implementarea acestei lucrari, data marts reprezinta tabelele SQL in care informatiile folosite despre clienti sunt grupate astfel:
 
         
-	A. DEMOGRAFICE
+-	A. DEMOGRAFICE
 * 	VARSTA	-	Varsta clientului
 * 	DOMICILIU_ORAS	-	Orasul domiciliului
 * 	DOMICILIU_JUDET	-	Judetul domiciliului
@@ -80,7 +80,7 @@ Pentru implementarea acestei lucrari, data marts reprezinta tabelele SQL in care
 * 	VECHIME	-	Vechimea clientului in banca
 	
 	
-	B. VENITURI		
+-	B. VENITURI		
 * 	VENIT_SOCIAL	-	Valoare venit din ajutor social 
 * 	VENIT_SOCIAL_DATA	-	Data incasarii venitului din ajutor social 
 * 	NR_VENIT_SOCIAL		- 	De cate ori a primit venit din ajutor social 
@@ -94,7 +94,7 @@ Pentru implementarea acestei lucrari, data marts reprezinta tabelele SQL in care
 * 	VENIT_SALARIU_DATA	-	Data incasarii venitului din salariu 
 * 	NR_VENIT_SALARIU - De cate ori a primit venit din salariu
 
-	C. TRANZACTII		
+-	C. TRANZACTII		
 * 	INCASARE_TOTAL	-	Valoarea totala a incasarii
 * 	NR_INCASARE_TOTAL	-	Nr total de incasari
 * 	PLATA_TOTAL	-	Valoarea totala a platilor ( Toate iesirile din cont)
@@ -108,7 +108,7 @@ Pentru implementarea acestei lucrari, data marts reprezinta tabelele SQL in care
 * 	PLATA_POS	-	Valoare plata prin POS
 * 	NR_PLATA_POS	-	Nr plati prin POS
 			
-	D.PRODUSE		
+-	D.PRODUSE		
 * 	CURRNT_TOTAL	-	Valoarea totala din cont curent
 * 	NR_CURRNT	-	Nr de conturi curente
 * 	CREDIT_NP	-	Valoarea creditului de nevoi personale 
@@ -133,7 +133,7 @@ Pentru implementarea acestei lucrari, data marts reprezinta tabelele SQL in care
 * 	NR_AC_PLAN_EC	-	Nr produse active plan de economii
 * 	NR_PLAN_EC	-	Nr produse plan de economii
 			
-	E.SERVICII		
+-	E.SERVICII		
 * 	IND_APP_NOTIF	-	Indicator 1/0 daca clientul accepta sa primeasca notificari prin aplicatie
 * 	IND_GOOGLE_PAY	-	Indicator 1/0 daca clientul foloseste Google Pay
 * 	IND_CASHBACK	-	Indicator 1/0 daca clientul are activat serviciul CashBack
