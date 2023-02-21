@@ -62,6 +62,7 @@ Prin data warehousing, datele sunt stocate in data marts, reprezentand subseturi
 
 Pentru implementarea acestei lucrari, data marts reprezinta tabelele SQL in care informatiile folosite despre clienti sunt grupate astfel:
 
+        
 	A. DEMOGRAFICE
 * 	VARSTA	-	Varsta clientului
 * 	DOMICILIU_ORAS	-	Orasul domiciliului
@@ -77,7 +78,8 @@ Pentru implementarea acestei lucrari, data marts reprezinta tabelele SQL in care
 * 	CETATENIE	-	Cetatenia clientului
 * 	NR_COPII	-	Numarul de copii pe care ii are clientului
 * 	VECHIME	-	Vechimea clientului in banca
-			
+	
+	
 	B. VENITURI		
 * 	VENIT_SOCIAL	-	Valoare venit din ajutor social 
 * 	VENIT_SOCIAL_DATA	-	Data incasarii venitului din ajutor social 
