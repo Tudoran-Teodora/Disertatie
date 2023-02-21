@@ -120,13 +120,13 @@ Pentru implementarea acestei lucrari, data marts reprezinta tabelele SQL in care
 * 	NR_AC_ASIG	-	Nr produse active asigurari
 * 	NR_ASIG	-	Nr produse asigurari
 * 	INV_TOTAL	-	Valoarea totala investitii
-* 	NR_INV	-	Nr produse active investitii
+* 	NR_AC_INV	-	Nr produse active investitii
 * 	NR_INV	-	Nr produse investitii
 * 	REF_TOTAL	-	Valoarea totala refinantare
 * 	NR_AC_REFIN	-	Nr produse active refinantare
 * 	NR_REFIN	-	Nr produse refinantare
 * 	PLAN_EC_TOTAL	-	Valoarea totala plan de economii
-* 	NR_ACC_PLAN_EC	-	Nr produse active plan de economii
+* 	NR_AC_PLAN_EC	-	Nr produse active plan de economii
 * 	NR_PLAN_EC	-	Nr produse plan de economii
 			
 	E.SERVICII		
