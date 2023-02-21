@@ -1,0 +1,75 @@
+	A. DEMOGRAFICE		
+* 	VARSTA	-	Varsta clientului
+* 	DOMICILIU_ORAS	-	Orasul domiciliului
+* 	DOMICILIU_JUDET	-	Judetul domiciliului
+* 	DOMICILIU_TARA	-	Tara domiciliului
+* 	DOMICILIU_REGIUNE	-	Regiunea domiciliului
+* 	DOMICILIU_ZONA	-	Zona domiciliului clientului ( Urban/Rural)
+* 	OCUPATIE	-	Ocupatia clientului
+* 	EDUCATIE	-	Educatia clientului
+* 	GEN	-	Genul clientului
+* 	STARE_CIVILA	-	Starea civila a clientului
+* 	NATIONALITATE	-	Nationalitatea clientului
+* 	CETATENIE	-	Cetatenia clientului
+* 	NR_COPII	-	Numarul de copii pe care ii are clientului
+* 	VECHIME	-	Vechimea clientului in banca
+			
+	B. VENITURI		
+* 	VENIT_SOCIAL	-	Valoare venit din ajutor social
+* 	VENIT_SOCIAL_DATA	-	Data incasarii venitului din ajutor social
+* 	VENIT_PENSIE	-	Valoare venit din pensii
+* 	VENIT_PENSIE_DATA	-	Data incasarii venitului din pensii
+* 	VENIT_ALOCATIE	-	Valoare venit din alocatii
+* 	VENIT_ALOCATIE_DATA	-	Data incasarii venitului din alocatii
+* 	VENIT_SOMAJ	-	Valoare venit din somaj
+* 	VENIT_SOMAJ_DATA	-	Data incasarii venitului din somai
+* 	VENIT_SALARIU	-	Valoare venit din salariu
+* 	VENIT_SALARIU_DATA	-	Data incasarii venitului din salariu
+			
+	C. TRANZACTII		
+* 	INCASARE_TOTAL	-	Valoarea totala a incasarii
+* 	NR_INCASARE_TOTAL	-	Nr total de incasari
+* 	PLATA_TOTAL	-	Valoarea totala a platilor ( Toate iesirile din cont)
+* 	NR_PLATA_TOTAL	-	Nr total al platilor
+* 	RETRAGERE_ATM	-	Valoarea retragere ATM
+* 	NR_RETRAGERE_ATM	-	Nr retrageri ATM
+* 	PLATA_EC	-	Valoare plata prin E-commerce
+* 	NR_PLATA_EC	-	Nr plati prin E-commerce
+* 	TRANSFER_APP	-	Valoare transfer prin aplicatie
+* 	NR_TRANSFER_APP	-	Nr transferuri prin aplicatie
+* 	PLATA_POS	-	Valoare plata prin POS
+* 	NR_PLATA_POS	-	Nr plati prin POS
+			
+	D.PRODUSE		
+* 	CURRNT_TOTAL	-	Valoarea totala din cont curent
+* 	NR_CURRNT	-	Nr de conturi curente
+* 	CREDIT_NP	-	Valoarea creditului de nevoi personale 
+* 	NR_AC_CREDIT_NP	-	Nr produse active de credit de nevoi personale
+* 	NR_CREDIT_NP	-	Nr produse total de credit de nevoi personale
+* 	CREDIT_CARD	-	Valoarea cardului de credit
+* 	NR_AC_CREDIT_CARD	-	Nr produse active card de credit
+* 	NR_CREDIT_CARD	-	Nr produse card de credit
+* 	DEP_TOTAL	-	Valoarea totala a depozitului
+* 	NR_AC_DEP	-	Nr produse active depozite
+* 	NR_DEP	-	Nr produse depozite
+* 	ASIG_TOTAL	-	Valoarea asigurare
+* 	NR_AC_ASIG	-	Nr produse active asigurari
+* 	NR_ASIG	-	Nr produse asigurari
+* 	INV_TOTAL	-	Valoarea totala investitii
+* 	NR_INV	-	Nr produse active investitii
+* 	NR_INV	-	Nr produse investitii
+* 	REF_TOTAL	-	Valoarea totala refinantare
+* 	NR_AC_REFIN	-	Nr produse active refinantare
+* 	NR_REFIN	-	Nr produse refinantare
+* 	PLAN_EC_TOTAL	-	Valoarea totala plan de economii
+* 	NR_ACC_PLAN_EC	-	Nr produse active plan de economii
+* 	NR_PLAN_EC	-	Nr produse plan de economii
+			
+	E.SERVICII		
+* 	IND_APP_NOTIF	-	Indicator 1/0 daca clientul accepta sa primeasca notificari prin aplicatie
+* 	IND_GOOGLE_PAY	-	Indicator 1/0 daca clientul foloseste Google Pay
+* 	IND_CASHBACK	-	Indicator 1/0 daca clientul are activat serviciul CashBack
+* 	IND_APPLE_PAY	-	Indicator 1/0 daca clientul foloseste Apple Pay
+			
+			
+			
