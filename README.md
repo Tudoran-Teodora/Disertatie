@@ -62,7 +62,7 @@ Prin data warehousing, datele sunt stocate in data marts, reprezentand subseturi
 
 Pentru implementarea acestei lucrari, data marts reprezinta tabelele SQL in care informatiile folosite despre clienti sunt grupate astfel:
 
-	A. DEMOGRAFICE		
+	A. DEMOGRAFICE
 * 	VARSTA	-	Varsta clientului
 * 	DOMICILIU_ORAS	-	Orasul domiciliului
 * 	DOMICILIU_JUDET	-	Judetul domiciliului
@@ -79,18 +79,18 @@ Pentru implementarea acestei lucrari, data marts reprezinta tabelele SQL in care
 * 	VECHIME	-	Vechimea clientului in banca
 			
 	B. VENITURI		
-* 	VENIT_SOCIAL	-	Valoare venit din ajutor social
-* 	VENIT_SOCIAL_DATA	-	Data incasarii venitului din ajutor social
-*       NR_VENIT_SOCIAL	- De cate ori a primit venit din ajutor social
-* 	VENIT_PENSIE	-	Valoare venit din pensii
-* 	VENIT_PENSIE_DATA	-	Data incasarii venitului din pensii
-*       NR_VENIT_PENSIE - De cate ori a primi venit din pensii
-* 	VENIT_SOMAJ	-	Valoare venit din somaj
-* 	VENIT_SOMAJ_DATA	-	Data incasarii venitului din somai
-*       NR_VENIT_SOMAJ - De cate ori a primit venit din somaj
-* 	VENIT_SALARIU	-	Valoare venit din salariu
-* 	VENIT_SALARIU_DATA	-	Data incasarii venitului din salariu
-*       NR_VENIT_SALARIU - De cate ori a primit venit din salariu
+* 	VENIT_SOCIAL	-	Valoare venit din ajutor social 
+* 	VENIT_SOCIAL_DATA	-	Data incasarii venitului din ajutor social 
+* 	NR_VENIT_SOCIAL		- 	De cate ori a primit venit din ajutor social 
+* 	VENIT_PENSIE	-	Valoare venit din pensii 
+* 	VENIT_PENSIE_DATA	-	Data incasarii venitului din pensii 
+* 	NR_VENIT_PENSIE 	-	De cate ori a primi venit din pensii 
+* 	VENIT_SOMAJ	-	Valoare venit din somaj 
+* 	VENIT_SOMAJ_DATA	-	Data incasarii venitului din somai 
+* 	NR_VENIT_SOMAJ - De cate ori a primit venit din somaj 
+* 	VENIT_SALARIU	-	Valoare venit din salariu 
+* 	VENIT_SALARIU_DATA	-	Data incasarii venitului din salariu 
+* 	NR_VENIT_SALARIU - De cate ori a primit venit din salariu
 
 	C. TRANZACTII		
 * 	INCASARE_TOTAL	-	Valoarea totala a incasarii
