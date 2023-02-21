@@ -83,8 +83,6 @@ Pentru implementarea acestei lucrari, data marts reprezinta tabelele SQL in care
 * 	VENIT_SOCIAL_DATA	-	Data incasarii venitului din ajutor social
 * 	VENIT_PENSIE	-	Valoare venit din pensii
 * 	VENIT_PENSIE_DATA	-	Data incasarii venitului din pensii
-* 	VENIT_ALOCATIE	-	Valoare venit din alocatii
-* 	VENIT_ALOCATIE_DATA	-	Data incasarii venitului din alocatii
 * 	VENIT_SOMAJ	-	Valoare venit din somaj
 * 	VENIT_SOMAJ_DATA	-	Data incasarii venitului din somai
 * 	VENIT_SALARIU	-	Valoare venit din salariu
