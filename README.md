@@ -68,7 +68,6 @@ Pentru implementarea acestei lucrari, data marts reprezinta tabelele SQL in care
 * 	DOMICILIU_ORAS	-	Orasul domiciliului
 * 	DOMICILIU_JUDET	-	Judetul domiciliului
 * 	DOMICILIU_TARA	-	Tara domiciliului
-* 	DOMICILIU_REGIUNE	-	Regiunea domiciliului
 * 	DOMICILIU_ZONA	-	Zona domiciliului clientului ( Urban/Rural)
 * 	OCUPATIE	-	Ocupatia clientului
 * 	EDUCATIE	-	Educatia clientului
